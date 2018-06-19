@@ -1,0 +1,16 @@
+{
+    "match" : 
+        {
+            "venue": "Moscow",
+	        "location": "Luzhniki Stadium",
+            "status": "future",
+            "time": null,
+            "fifa": "300331552",
+            "datetime": "2018-07-15T22:00:00Z",
+	        "lasteventupdateat": "null",
+	        "hometeam": "Nga",
+	        "awayteam": "Bru", 
+	        "winner": "Nga"
+        }
+    
+}
